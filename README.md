@@ -34,6 +34,9 @@ This project is licensed under the MIT License. See the LICENSE file for details
 - API providers for enabling the dynamic menu feature.
 
 
+## Contributors
+[Rujina Akhtar](https://github.com/Rujina-227)
+
 
 
 
