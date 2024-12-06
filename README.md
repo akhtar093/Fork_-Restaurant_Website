@@ -30,3 +30,23 @@ This project is licensed under the MIT License. See the LICENSE file for details
 Special thanks to the open-source community for inspiration.
 API providers for enabling the dynamic menu feature.
 
+
+## 📂 Project Structure
+
+Below is the structure of the project files and folders:
+
+1. `Fork_-Restaurant_Website/` - Root folder of the project.
+   1.1. `css/` - Contains all CSS stylesheets for the project.
+        - `style.css` - Main stylesheet.
+        - `responsive.css` - Styles for responsiveness.
+   1.2. `js/` - Contains JavaScript files.
+        - `main.js` - Core JavaScript functionality.
+        - `api.js` - Handles API calls for dynamic menu.
+   1.3. `images/` - Stores all images used in the project.
+        - `logo.png` - Website logo.
+        - `banner.jpg` - Banner image.
+        - `food/` - Subfolder for food-related images.
+   1.4. `index.html` - Main HTML file of the website.
+   1.5. `README.md` - Project documentation file.
+
+
