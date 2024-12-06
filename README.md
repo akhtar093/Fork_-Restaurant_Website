@@ -6,12 +6,14 @@ Responsive Design: Optimized for all devices including desktops, tablets, and mo
 Interactive UI: Smooth navigation and user-friendly interface.
 Modern Technologies: Built with HTML, CSS, and JavaScript for a seamless experience.
 ## Project Structure
-''' Fork_-Restaurant_Website/
+'''
+Fork_-Restaurant_Website/
 ├── css/                # Stylesheets
 ├── js/                 # JavaScript files
 ├── images/             # Images used in the project
 ├── index.html          # Main HTML file
-└── README.md           # Project documentation '''
+└── README.md           # Project documentation
+'''
 ## Technologies Used
 HTML5: Markup language for structuring the content.
 CSS3: Styling for layout and design.
