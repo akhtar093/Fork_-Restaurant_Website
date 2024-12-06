@@ -6,7 +6,7 @@ Responsive Design: Optimized for all devices including desktops, tablets, and mo
 Interactive UI: Smooth navigation and user-friendly interface.
 Modern Technologies: Built with HTML, CSS, and JavaScript for a seamless experience.
 ## Project Structure
-Fork_-Restaurant_Website/
+'''Fork_-Restaurant_Website/
 ├── css/                # Stylesheets
 ├── js/                 # JavaScript files
 ├── images/             # Images used in the project
