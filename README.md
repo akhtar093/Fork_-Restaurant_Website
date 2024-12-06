@@ -1,6 +1,6 @@
 # Fork_-Restaurant_Website
 A responsive and dynamic restaurant website showcasing an elegant design, a dynamic food menu, and an interactive user experience. This project demonstrates how modern web technologies can be used to create visually appealing and functional websites.
-## Features
+🚀## Features
 Dynamic Menu: Fetches menu items using an API and displays them in an interactive layout.
 Responsive Design: Optimized for all devices including desktops, tablets, and mobile phones.
 Interactive UI: Smooth navigation and user-friendly interface.
