@@ -35,7 +35,7 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 
 ## Contributors
-#### [Md. Akhtar Uz Uaman](https://github.com/akhtar093)
+### [Md. Akhtar Uz Uaman](https://github.com/akhtar093)
 ### [Rujina Akhtar](https://github.com/Rujina-227)
 
 
