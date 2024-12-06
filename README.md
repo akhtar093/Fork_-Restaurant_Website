@@ -12,10 +12,10 @@ Fork_-Restaurant_Website/
 ├── images/             # Images used in the project
 ├── index.html          # Main HTML file
 └── README.md           # Project documentation
-## Technologies Used
-. HTML5: Markup language for structuring the content.
-. CSS3: Styling for layout and design.
-. JavaScript: Adds interactivity and fetches data from APIs.
+## 🛠️ Technologies Used
+HTML5: Markup language for structuring the content.
+CSS3: Styling for layout and design.
+JavaScript: Adds interactivity and fetches data from APIs.
 
 ## Installation & Setup
 1. Clone the Repository:
