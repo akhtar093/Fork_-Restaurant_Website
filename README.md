@@ -11,7 +11,7 @@ Modern Technologies: Built with HTML, CSS, and JavaScript for a seamless experie
 ├── js/                 # JavaScript files
 ├── images/             # Images used in the project
 ├── index.html          # Main HTML file
-└── README.md           # Project documentation
+└── README.md           # Project documentation'''
 ## Technologies Used
 HTML5: Markup language for structuring the content.
 CSS3: Styling for layout and design.
