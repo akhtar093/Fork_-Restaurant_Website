@@ -24,7 +24,7 @@ cd Fork_-Restaurant_Website
 2. Open in Browser: Open the index.html file in your preferred browser to view the website.
 
 ## 💡 Contributions
-Contributions, issues, and feature requests are welcome! Feel free to check out the issues page.
+Contributions, issues, and feature requests are welcome! Feel free to check out the [Issue Page](https://github.com/akhtar093/Fork_-Restaurant_Website/issues).
 
 ## 📄License
 This project is licensed under the MIT License. See the LICENSE file for details.
